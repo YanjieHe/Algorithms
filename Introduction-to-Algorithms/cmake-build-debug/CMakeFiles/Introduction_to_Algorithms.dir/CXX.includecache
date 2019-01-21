@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/Divide-and-Conquer.cpp
+Divide-and-Conquer.hpp
+C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/Divide-and-Conquer.hpp
+cmath
+-
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/Divide-and-Conquer.hpp
+vector
+-
+numeric
+-
+tuple
+-
+iostream
+-
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/main.cpp
+iostream
+-
+Divide-and-Conquer.hpp
+C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/Divide-and-Conquer.hpp
+

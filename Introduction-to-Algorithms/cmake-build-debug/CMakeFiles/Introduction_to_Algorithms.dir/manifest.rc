@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/HeYan/Documents/MyCode/C++/Clion/Introduction-to-Algorithms/cmake-build-debug/CMakeFiles/Introduction_to_Algorithms.dir/embed.manifest"
