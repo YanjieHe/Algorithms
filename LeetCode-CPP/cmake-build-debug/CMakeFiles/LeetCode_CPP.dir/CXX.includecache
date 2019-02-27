@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/LeetCode-CPP/PreDefs.hpp
+string
+-
+vector
+-
+unordered_map
+-
+unordered_set
+-
+tuple
+-
+iostream
+-
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/LeetCode-CPP/Search in Rotated Sorted Array II.hpp
+PreDefs.hpp
+C:/Users/HeYan/Documents/MyCode/C++/Clion/LeetCode-CPP/PreDefs.hpp
+
+C:/Users/HeYan/Documents/MyCode/C++/Clion/LeetCode-CPP/main.cpp
+iostream
+-
+Search in Rotated Sorted Array II.hpp
+C:/Users/HeYan/Documents/MyCode/C++/Clion/LeetCode-CPP/Search in Rotated Sorted Array II.hpp
+
