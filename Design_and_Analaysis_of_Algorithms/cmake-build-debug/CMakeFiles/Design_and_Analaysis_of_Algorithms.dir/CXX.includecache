@@ -6,7 +6,23 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.hpp
+vector
+-
+
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp
 iostream
 -
+test/Test_Disjoint_Set.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.cpp
+Test_Disjoint_Set.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp
+../Disjoint_Set.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.hpp
+iostream
+-
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp
 

@@ -124,6 +124,33 @@ Design_and_Analaysis_of_Algorithms\fast:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build
 .PHONY : Design_and_Analaysis_of_Algorithms\fast
 
+Disjoint_Set.obj: Disjoint_Set.cpp.obj
+
+.PHONY : Disjoint_Set.obj
+
+# target to build an object file
+Disjoint_Set.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.obj
+.PHONY : Disjoint_Set.cpp.obj
+
+Disjoint_Set.i: Disjoint_Set.cpp.i
+
+.PHONY : Disjoint_Set.i
+
+# target to preprocess a source file
+Disjoint_Set.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.i
+.PHONY : Disjoint_Set.cpp.i
+
+Disjoint_Set.s: Disjoint_Set.cpp.s
+
+.PHONY : Disjoint_Set.s
+
+# target to generate assembly for a file
+Disjoint_Set.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.s
+.PHONY : Disjoint_Set.cpp.s
+
 Kruskal_MST.obj: Kruskal_MST.cpp.obj
 
 .PHONY : Kruskal_MST.obj
@@ -150,6 +177,33 @@ Kruskal_MST.s: Kruskal_MST.cpp.s
 Kruskal_MST.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.s
 .PHONY : Kruskal_MST.cpp.s
+
+Union-Find.obj: Union-Find.cpp.obj
+
+.PHONY : Union-Find.obj
+
+# target to build an object file
+Union-Find.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj
+.PHONY : Union-Find.cpp.obj
+
+Union-Find.i: Union-Find.cpp.i
+
+.PHONY : Union-Find.i
+
+# target to preprocess a source file
+Union-Find.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.i
+.PHONY : Union-Find.cpp.i
+
+Union-Find.s: Union-Find.cpp.s
+
+.PHONY : Union-Find.s
+
+# target to generate assembly for a file
+Union-Find.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.s
+.PHONY : Union-Find.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -178,6 +232,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+test\Test_Disjoint_Set.obj: test\Test_Disjoint_Set.cpp.obj
+
+.PHONY : test\Test_Disjoint_Set.obj
+
+# target to build an object file
+test\Test_Disjoint_Set.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj
+.PHONY : test\Test_Disjoint_Set.cpp.obj
+
+test\Test_Disjoint_Set.i: test\Test_Disjoint_Set.cpp.i
+
+.PHONY : test\Test_Disjoint_Set.i
+
+# target to preprocess a source file
+test\Test_Disjoint_Set.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.i
+.PHONY : test\Test_Disjoint_Set.cpp.i
+
+test\Test_Disjoint_Set.s: test\Test_Disjoint_Set.cpp.s
+
+.PHONY : test\Test_Disjoint_Set.s
+
+# target to generate assembly for a file
+test\Test_Disjoint_Set.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.s
+.PHONY : test\Test_Disjoint_Set.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -187,12 +268,21 @@ help:
 	@echo ... edit_cache
 	@echo ... Design_and_Analaysis_of_Algorithms
 	@echo ... rebuild_cache
+	@echo ... Disjoint_Set.obj
+	@echo ... Disjoint_Set.i
+	@echo ... Disjoint_Set.s
 	@echo ... Kruskal_MST.obj
 	@echo ... Kruskal_MST.i
 	@echo ... Kruskal_MST.s
+	@echo ... Union-Find.obj
+	@echo ... Union-Find.i
+	@echo ... Union-Find.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... test/Test_Disjoint_Set.obj
+	@echo ... test/Test_Disjoint_Set.i
+	@echo ... test/Test_Disjoint_Set.s
 .PHONY : help
 
 

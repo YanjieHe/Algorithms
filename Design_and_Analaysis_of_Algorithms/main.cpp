@@ -1,6 +1,8 @@
 #include <iostream>
+#include "test/Test_Disjoint_Set.hpp"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main()
+{
+    Test_Disjoint_Set::Test();
     return 0;
 }

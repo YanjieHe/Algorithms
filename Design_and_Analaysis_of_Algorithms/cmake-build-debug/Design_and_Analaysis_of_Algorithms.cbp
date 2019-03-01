@@ -84,13 +84,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.cpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Union-Find.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Union-Find.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/CMakeLists.txt">
