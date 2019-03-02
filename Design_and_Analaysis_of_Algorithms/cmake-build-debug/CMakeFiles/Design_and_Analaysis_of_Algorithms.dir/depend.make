@@ -7,6 +7,9 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.obj: ..\Disjo
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Kruskal_MST.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Kruskal_MST.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.cpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.hpp
+
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Disjoint_Set.hpp
 
