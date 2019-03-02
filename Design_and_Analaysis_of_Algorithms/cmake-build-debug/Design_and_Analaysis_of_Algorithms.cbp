@@ -90,6 +90,12 @@
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.cpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
@@ -109,6 +115,12 @@
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/CMakeLists.txt">

@@ -1,6 +1,4 @@
 #include "Disjoint_Set.hpp"
-#include "Union-Find.hpp"
-
 
 int Find(std::vector<int> &parent, int i)
 {

@@ -1,11 +1,11 @@
 #include "Union-Find.hpp"
 
-
 int Find(std::vector<Subset> &subsets, int i)
 {
     if (subsets.at(i).parent != i)
     {
         subsets.at(i).parent = Find(subsets, subsets.at(i).parent);
+        return subsets.at(i).parent;
     }
     else
     {
@@ -33,7 +33,29 @@ void Union(std::vector<Subset> &subsets, int x, int y)
     }
 }
 
-bool IsCycle(Graph &graph)
+bool UnionFindIsCycle(Graph &graph)
 {
+    int V = graph.V();
+    int E = graph.E();
+    std::vector<Subset> subsets(V);
+    for (int v = 0; v < V; v++)
+    {
+        subsets.at(v).parent = v;
+        subsets.at(v).rank = 0;
+    }
+    for (int e = 0; e < E; ++e)
+    {
+        int x = Find(subsets, graph.Edges().at(e).src);
+        int y = Find(subsets, graph.Edges().at(e).dest);
 
+        if (x == y)
+        {
+            return true;
+        }
+        else
+        {
+            Union(subsets, x, y);
+        }
+    }
+    return false;
 }
