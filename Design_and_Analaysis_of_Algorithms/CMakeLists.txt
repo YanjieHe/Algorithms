@@ -15,4 +15,4 @@ add_executable(
         Union-Find.cpp
         Union-Find.hpp
         test/Test_Union_Find.cpp
-        test/Test_Union_Find.hpp Graph.cpp Graph.hpp)
+        test/Test_Union_Find.hpp Graph.hpp)

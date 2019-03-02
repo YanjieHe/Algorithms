@@ -151,33 +151,6 @@ Disjoint_Set.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.s
 .PHONY : Disjoint_Set.cpp.s
 
-Graph.obj: Graph.cpp.obj
-
-.PHONY : Graph.obj
-
-# target to build an object file
-Graph.cpp.obj:
-	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Graph.cpp.obj
-.PHONY : Graph.cpp.obj
-
-Graph.i: Graph.cpp.i
-
-.PHONY : Graph.i
-
-# target to preprocess a source file
-Graph.cpp.i:
-	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Graph.cpp.i
-.PHONY : Graph.cpp.i
-
-Graph.s: Graph.cpp.s
-
-.PHONY : Graph.s
-
-# target to generate assembly for a file
-Graph.cpp.s:
-	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Graph.cpp.s
-.PHONY : Graph.cpp.s
-
 Kruskal_MST.obj: Kruskal_MST.cpp.obj
 
 .PHONY : Kruskal_MST.obj
@@ -325,9 +298,6 @@ help:
 	@echo ... Disjoint_Set.obj
 	@echo ... Disjoint_Set.i
 	@echo ... Disjoint_Set.s
-	@echo ... Graph.obj
-	@echo ... Graph.i
-	@echo ... Graph.s
 	@echo ... Kruskal_MST.obj
 	@echo ... Kruskal_MST.i
 	@echo ... Kruskal_MST.s

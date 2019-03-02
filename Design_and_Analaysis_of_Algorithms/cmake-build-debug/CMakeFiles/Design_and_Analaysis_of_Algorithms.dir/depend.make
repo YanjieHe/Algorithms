@@ -4,12 +4,19 @@
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.obj: ..\Disjoint_Set.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.obj: ..\Disjoint_Set.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Graph.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Kruskal_MST.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Kruskal_MST.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Union-Find.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Graph.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Kruskal_MST.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Graph.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Kruskal_MST.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Union-Find.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Union_Find.hpp
 
@@ -17,6 +24,7 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj: ..\test\Test_Disjoint_Set.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj: ..\test\Test_Disjoint_Set.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Union_Find.cpp.obj: ..\Graph.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Union_Find.cpp.obj: ..\Union-Find.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Union_Find.cpp.obj: ..\test\Test_Union_Find.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Union_Find.cpp.obj: ..\test\Test_Union_Find.hpp

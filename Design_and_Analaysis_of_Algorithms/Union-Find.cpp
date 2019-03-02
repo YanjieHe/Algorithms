@@ -1,4 +1,6 @@
 #include "Union-Find.hpp"
+#include "Kruskal_MST.hpp"
+
 
 int Find(std::vector<Subset> &subsets, int i)
 {
@@ -33,7 +35,7 @@ void Union(std::vector<Subset> &subsets, int x, int y)
     }
 }
 
-bool UnionFindIsCycle(Graph &graph)
+bool IsCycle(Graph<Undirected> &graph)
 {
     int V = graph.V();
     int E = graph.E();

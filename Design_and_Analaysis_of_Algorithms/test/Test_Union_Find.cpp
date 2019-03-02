@@ -5,6 +5,7 @@
 namespace Test_Union_Find
 {
     using namespace std;
+
     void Test()
     {
         Test1();
@@ -22,10 +23,10 @@ namespace Test_Union_Find
          */
         int V = 3;
         int E = 3;
-        Graph graph(V, E);
-        graph.AddEdge(0, 1);
-        graph.AddEdge(0, 2);
-        graph.AddEdge(1, 2);
-        cout << boolalpha << UnionFindIsCycle(graph) << endl;
+        Graph<Undirected> graph(V, E);
+        graph.AddEdge({0, 1});
+        graph.AddEdge({0, 2});
+        graph.AddEdge({1, 2});
+        cout << boolalpha << IsCycle(graph) << endl;
     }
 }
