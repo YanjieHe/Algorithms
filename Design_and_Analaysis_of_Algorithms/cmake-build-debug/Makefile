@@ -259,6 +259,33 @@ test\Test_Disjoint_Set.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.s
 .PHONY : test\Test_Disjoint_Set.cpp.s
 
+test\Test_Kruskal_MST.obj: test\Test_Kruskal_MST.cpp.obj
+
+.PHONY : test\Test_Kruskal_MST.obj
+
+# target to build an object file
+test\Test_Kruskal_MST.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Kruskal_MST.cpp.obj
+.PHONY : test\Test_Kruskal_MST.cpp.obj
+
+test\Test_Kruskal_MST.i: test\Test_Kruskal_MST.cpp.i
+
+.PHONY : test\Test_Kruskal_MST.i
+
+# target to preprocess a source file
+test\Test_Kruskal_MST.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Kruskal_MST.cpp.i
+.PHONY : test\Test_Kruskal_MST.cpp.i
+
+test\Test_Kruskal_MST.s: test\Test_Kruskal_MST.cpp.s
+
+.PHONY : test\Test_Kruskal_MST.s
+
+# target to generate assembly for a file
+test\Test_Kruskal_MST.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Kruskal_MST.cpp.s
+.PHONY : test\Test_Kruskal_MST.cpp.s
+
 test\Test_Union_Find.obj: test\Test_Union_Find.cpp.obj
 
 .PHONY : test\Test_Union_Find.obj
@@ -310,6 +337,9 @@ help:
 	@echo ... test/Test_Disjoint_Set.obj
 	@echo ... test/Test_Disjoint_Set.i
 	@echo ... test/Test_Disjoint_Set.s
+	@echo ... test/Test_Kruskal_MST.obj
+	@echo ... test/Test_Kruskal_MST.i
+	@echo ... test/Test_Kruskal_MST.s
 	@echo ... test/Test_Union_Find.obj
 	@echo ... test/Test_Union_Find.i
 	@echo ... test/Test_Union_Find.s

@@ -22,15 +22,11 @@ vector
 Graph.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.hpp
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp
-iostream
--
-test/Test_Union_Find.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.hpp
-Kruskal_MST.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.cpp
+Test_Kruskal_MST.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp
+../Kruskal_MST.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.hpp
-cstdint
--
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp
 

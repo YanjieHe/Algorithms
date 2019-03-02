@@ -114,6 +114,12 @@
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.cpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
