@@ -178,6 +178,33 @@ Kruskal_MST.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.s
 .PHONY : Kruskal_MST.cpp.s
 
+Prim_MST.obj: Prim_MST.cpp.obj
+
+.PHONY : Prim_MST.obj
+
+# target to build an object file
+Prim_MST.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Prim_MST.cpp.obj
+.PHONY : Prim_MST.cpp.obj
+
+Prim_MST.i: Prim_MST.cpp.i
+
+.PHONY : Prim_MST.i
+
+# target to preprocess a source file
+Prim_MST.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Prim_MST.cpp.i
+.PHONY : Prim_MST.cpp.i
+
+Prim_MST.s: Prim_MST.cpp.s
+
+.PHONY : Prim_MST.s
+
+# target to generate assembly for a file
+Prim_MST.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Prim_MST.cpp.s
+.PHONY : Prim_MST.cpp.s
+
 Union-Find.obj: Union-Find.cpp.obj
 
 .PHONY : Union-Find.obj
@@ -328,6 +355,9 @@ help:
 	@echo ... Kruskal_MST.obj
 	@echo ... Kruskal_MST.i
 	@echo ... Kruskal_MST.s
+	@echo ... Prim_MST.obj
+	@echo ... Prim_MST.i
+	@echo ... Prim_MST.s
 	@echo ... Union-Find.obj
 	@echo ... Union-Find.i
 	@echo ... Union-Find.s

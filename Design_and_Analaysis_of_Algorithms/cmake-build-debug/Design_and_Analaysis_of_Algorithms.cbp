@@ -99,6 +99,12 @@
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Prim_MST.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Prim_MST.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Union-Find.cpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>

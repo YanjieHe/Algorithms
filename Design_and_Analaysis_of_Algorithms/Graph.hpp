@@ -8,7 +8,8 @@ enum EdgeType
 
     Undirected,
     Directed = 2,
-    Weighted = 4
+    Adjacent = 4,
+    Weighted = 8
 };
 
 template<int type>
@@ -128,6 +129,36 @@ private:
     int numOfVertices;
     int numOfEdges;
     std::vector<Edge<Undirected | Weighted>> edges;
+};
+
+template<>
+class Graph<Undirected | Adjacent | Weighted>
+{
+public:
+    Graph(int V) : numOfVertices{V}, adj(V)
+    {
+
+    }
+
+    void AddEdge(int src, int dest, double weight)
+    {
+        adj.at(src).emplace_back(src, dest, weight);
+        adj.at(dest).emplace_back(dest, src, weight);
+    }
+
+    int &V()
+    {
+        return numOfVertices;
+    }
+
+    std::vector<std::vector<Edge<Undirected | Weighted>>> &AdjacencyList()
+    {
+        return adj;
+    }
+
+private:
+    std::vector<std::vector<Edge<Undirected | Weighted>>> adj;
+    int numOfVertices;
 };
 
 #endif //DESIGN_AND_ANALAYSIS_OF_ALGORITHMS_GRAPH_HPP
