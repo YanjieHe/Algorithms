@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Union_Find.cpp.obj"
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Kruskal_MST.cpp.obj"
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Prim_MST.cpp.obj"
+  "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Dijkstra.cpp.obj"
+  "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Prim_MST.cpp.obj"
   "Design_and_Analaysis_of_Algorithms.pdb"
   "Design_and_Analaysis_of_Algorithms.exe"
   "Design_and_Analaysis_of_Algorithms.exe.manifest"

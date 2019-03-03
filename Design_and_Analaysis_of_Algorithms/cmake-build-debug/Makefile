@@ -124,6 +124,33 @@ Design_and_Analaysis_of_Algorithms\fast:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build
 .PHONY : Design_and_Analaysis_of_Algorithms\fast
 
+Dijkstra.obj: Dijkstra.cpp.obj
+
+.PHONY : Dijkstra.obj
+
+# target to build an object file
+Dijkstra.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Dijkstra.cpp.obj
+.PHONY : Dijkstra.cpp.obj
+
+Dijkstra.i: Dijkstra.cpp.i
+
+.PHONY : Dijkstra.i
+
+# target to preprocess a source file
+Dijkstra.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Dijkstra.cpp.i
+.PHONY : Dijkstra.cpp.i
+
+Dijkstra.s: Dijkstra.cpp.s
+
+.PHONY : Dijkstra.s
+
+# target to generate assembly for a file
+Dijkstra.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Dijkstra.cpp.s
+.PHONY : Dijkstra.cpp.s
+
 Disjoint_Set.obj: Disjoint_Set.cpp.obj
 
 .PHONY : Disjoint_Set.obj
@@ -313,6 +340,33 @@ test\Test_Kruskal_MST.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Kruskal_MST.cpp.s
 .PHONY : test\Test_Kruskal_MST.cpp.s
 
+test\Test_Prim_MST.obj: test\Test_Prim_MST.cpp.obj
+
+.PHONY : test\Test_Prim_MST.obj
+
+# target to build an object file
+test\Test_Prim_MST.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Prim_MST.cpp.obj
+.PHONY : test\Test_Prim_MST.cpp.obj
+
+test\Test_Prim_MST.i: test\Test_Prim_MST.cpp.i
+
+.PHONY : test\Test_Prim_MST.i
+
+# target to preprocess a source file
+test\Test_Prim_MST.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Prim_MST.cpp.i
+.PHONY : test\Test_Prim_MST.cpp.i
+
+test\Test_Prim_MST.s: test\Test_Prim_MST.cpp.s
+
+.PHONY : test\Test_Prim_MST.s
+
+# target to generate assembly for a file
+test\Test_Prim_MST.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Prim_MST.cpp.s
+.PHONY : test\Test_Prim_MST.cpp.s
+
 test\Test_Union_Find.obj: test\Test_Union_Find.cpp.obj
 
 .PHONY : test\Test_Union_Find.obj
@@ -349,6 +403,9 @@ help:
 	@echo ... edit_cache
 	@echo ... Design_and_Analaysis_of_Algorithms
 	@echo ... rebuild_cache
+	@echo ... Dijkstra.obj
+	@echo ... Dijkstra.i
+	@echo ... Dijkstra.s
 	@echo ... Disjoint_Set.obj
 	@echo ... Disjoint_Set.i
 	@echo ... Disjoint_Set.s
@@ -370,6 +427,9 @@ help:
 	@echo ... test/Test_Kruskal_MST.obj
 	@echo ... test/Test_Kruskal_MST.i
 	@echo ... test/Test_Kruskal_MST.s
+	@echo ... test/Test_Prim_MST.obj
+	@echo ... test/Test_Prim_MST.i
+	@echo ... test/Test_Prim_MST.s
 	@echo ... test/Test_Union_Find.obj
 	@echo ... test/Test_Union_Find.i
 	@echo ... test/Test_Union_Find.s

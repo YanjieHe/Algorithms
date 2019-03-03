@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Dijkstra.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Disjoint_Set.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Kruskal_MST.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Prim_MST.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Prim_MST.cpp.obj"
@@ -11,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/main.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Disjoint_Set.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Kruskal_MST.cpp.obj"
+  "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Prim_MST.cpp.obj"
   "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.cpp" "C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/test/Test_Union_Find.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

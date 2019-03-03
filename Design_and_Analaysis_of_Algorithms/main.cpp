@@ -2,7 +2,8 @@
 #include "test/Test_Disjoint_Set.hpp"
 #include "test/Test_Union_Find.hpp"
 #include "test/Test_Kruskal_MST.hpp"
-#include "Prim_MST.hpp"
+#include "test/Test_Prim_MST.hpp"
+#include "Dijkstra.hpp"
 #include <cstdint>
 
 int main()
@@ -10,27 +11,18 @@ int main()
     Test_Disjoint_Set::Test();
     Test_Union_Find::Test();
     Test_Kruskal_MST::Test();
-    // create the graph given in above fugure
+    Test_Prim_MST::Test();
     int V = 9;
-    Graph<Undirected | Adjacent | Weighted> g(V);
-
-    //  making above shown graph
-    g.AddEdge(0, 1, 4);
-    g.AddEdge(0, 7, 8);
-    g.AddEdge(1, 2, 8);
-    g.AddEdge(1, 7, 11);
-    g.AddEdge(2, 3, 7);
-    g.AddEdge(2, 8, 2);
-    g.AddEdge(2, 5, 4);
-    g.AddEdge(3, 4, 9);
-    g.AddEdge(3, 5, 14);
-    g.AddEdge(4, 5, 10);
-    g.AddEdge(5, 6, 2);
-    g.AddEdge(6, 7, 1);
-    g.AddEdge(6, 8, 6);
-    g.AddEdge(7, 8, 7);
-
-    PrimMST(g);
-
+    std::vector<std::vector<double>> graph = {{0, 4,  0, 0,  0,  0,  0, 8,  0},
+                                              {4, 0,  8, 0,  0,  0,  0, 11, 0},
+                                              {0, 8,  0, 7,  0,  4,  0, 0,  2},
+                                              {0, 0,  7, 0,  9,  14, 0, 0,  0},
+                                              {0, 0,  0, 9,  0,  10, 0, 0,  0},
+                                              {0, 0,  4, 14, 10, 0,  2, 0,  0},
+                                              {0, 0,  0, 0,  0,  2,  0, 1,  6},
+                                              {8, 11, 0, 0,  0,  0,  1, 0,  7},
+                                              {0, 0,  2, 0,  0,  0,  6, 7,  0}
+    };
+    Dijkstra(graph, V, 0);
     return 0;
 }

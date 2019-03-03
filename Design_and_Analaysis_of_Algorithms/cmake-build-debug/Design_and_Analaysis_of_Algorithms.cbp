@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Disjoint_Set.cpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
@@ -124,6 +130,12 @@
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.cpp">
+			<Option target="Design_and_Analaysis_of_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.hpp">
 			<Option target="Design_and_Analaysis_of_Algorithms"/>
 		</Unit>
 		<Unit filename="C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.cpp">
