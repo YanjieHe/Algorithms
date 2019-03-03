@@ -286,6 +286,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+test\Test_Dijkstra.obj: test\Test_Dijkstra.cpp.obj
+
+.PHONY : test\Test_Dijkstra.obj
+
+# target to build an object file
+test\Test_Dijkstra.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.obj
+.PHONY : test\Test_Dijkstra.cpp.obj
+
+test\Test_Dijkstra.i: test\Test_Dijkstra.cpp.i
+
+.PHONY : test\Test_Dijkstra.i
+
+# target to preprocess a source file
+test\Test_Dijkstra.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.i
+.PHONY : test\Test_Dijkstra.cpp.i
+
+test\Test_Dijkstra.s: test\Test_Dijkstra.cpp.s
+
+.PHONY : test\Test_Dijkstra.s
+
+# target to generate assembly for a file
+test\Test_Dijkstra.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.s
+.PHONY : test\Test_Dijkstra.cpp.s
+
 test\Test_Disjoint_Set.obj: test\Test_Disjoint_Set.cpp.obj
 
 .PHONY : test\Test_Disjoint_Set.obj
@@ -421,6 +448,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... test/Test_Dijkstra.obj
+	@echo ... test/Test_Dijkstra.i
+	@echo ... test/Test_Dijkstra.s
 	@echo ... test/Test_Disjoint_Set.obj
 	@echo ... test/Test_Disjoint_Set.i
 	@echo ... test/Test_Disjoint_Set.s

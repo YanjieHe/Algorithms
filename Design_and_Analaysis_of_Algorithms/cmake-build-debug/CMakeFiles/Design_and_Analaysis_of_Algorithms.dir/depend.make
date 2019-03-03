@@ -21,12 +21,16 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Kruskal
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.hpp
 
-CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Dijkstra.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\main.cpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Dijkstra.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Disjoint_Set.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Kruskal_MST.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Prim_MST.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Union_Find.hpp
+
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.obj: ..\Dijkstra.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.obj: ..\test\Test_Dijkstra.cpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Dijkstra.cpp.obj: ..\test\Test_Dijkstra.hpp
 
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj: ..\Disjoint_Set.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\test\Test_Disjoint_Set.cpp.obj: ..\test\Test_Disjoint_Set.cpp

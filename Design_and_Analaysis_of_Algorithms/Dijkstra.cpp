@@ -7,7 +7,7 @@ void Dijkstra(const std::vector<std::vector<double>> &graph, int V, int src)
 {
     auto minDistance = [V](const std::vector<double> &dist, const std::vector<bool> &sptSet) -> int
     {
-        double min = INT_MAX;
+        double min = std::numeric_limits<double>::infinity();
         int min_index = -1;
 
         for (int v = 0; v < V; v++)

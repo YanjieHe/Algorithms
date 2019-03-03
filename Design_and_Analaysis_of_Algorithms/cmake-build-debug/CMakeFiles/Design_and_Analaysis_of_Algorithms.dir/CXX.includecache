@@ -6,23 +6,49 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.cpp
+Dijkstra.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
+limits
+-
+iostream
+-
+cmath
+-
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
 vector
 -
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Prim_MST.hpp
-Graph.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.hpp
-tuple
--
-
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.cpp
-Test_Prim_MST.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.hpp
-../Prim_MST.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Prim_MST.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp
 iostream
 -
+test/Test_Disjoint_Set.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp
+test/Test_Union_Find.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.hpp
+test/Test_Kruskal_MST.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp
+test/Test_Prim_MST.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.hpp
+test/Test_Dijkstra.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
+cstdint
+-
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.cpp
+Test_Dijkstra.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
+../Dijkstra.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Disjoint_Set.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Kruskal_MST.hpp
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Union_Find.hpp
 
