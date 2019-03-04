@@ -6,17 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.cpp
-Dijkstra.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
-limits
--
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.cpp
+Huffman_Coding.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
 iostream
 -
-cmath
+queue
 -
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
+memory
+-
+string
+-
 vector
 -
 
@@ -33,14 +35,8 @@ test/Test_Prim_MST.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Prim_MST.hpp
 test/Test_Dijkstra.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
-cstdint
--
-
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.cpp
-Test_Dijkstra.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
-../Dijkstra.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
+Huffman_Coding.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
 

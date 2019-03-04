@@ -3,6 +3,7 @@
 
 #include <memory>
 #include <string>
+#include <vector>
 
 class MinHeapNode
 {
@@ -19,5 +20,7 @@ public:
 };
 
 void PrintCodes(std::shared_ptr<MinHeapNode> root, std::string str);
+
+void HuffmanCodes(std::string data, std::vector<int> freq);
 
 #endif //DESIGN_AND_ANALAYSIS_OF_ALGORITHMS_HUFFMAN_CODING_HPP
