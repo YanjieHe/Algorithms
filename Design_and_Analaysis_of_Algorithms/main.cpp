@@ -4,7 +4,6 @@
 #include "test/Test_Kruskal_MST.hpp"
 #include "test/Test_Prim_MST.hpp"
 #include "test/Test_Dijkstra.hpp"
-#include <cstdint>
 
 int main()
 {

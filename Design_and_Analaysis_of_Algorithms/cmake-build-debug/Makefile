@@ -178,6 +178,33 @@ Disjoint_Set.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.s
 .PHONY : Disjoint_Set.cpp.s
 
+Huffman_Coding.obj: Huffman_Coding.cpp.obj
+
+.PHONY : Huffman_Coding.obj
+
+# target to build an object file
+Huffman_Coding.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.obj
+.PHONY : Huffman_Coding.cpp.obj
+
+Huffman_Coding.i: Huffman_Coding.cpp.i
+
+.PHONY : Huffman_Coding.i
+
+# target to preprocess a source file
+Huffman_Coding.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.i
+.PHONY : Huffman_Coding.cpp.i
+
+Huffman_Coding.s: Huffman_Coding.cpp.s
+
+.PHONY : Huffman_Coding.s
+
+# target to generate assembly for a file
+Huffman_Coding.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.s
+.PHONY : Huffman_Coding.cpp.s
+
 Kruskal_MST.obj: Kruskal_MST.cpp.obj
 
 .PHONY : Kruskal_MST.obj
@@ -436,6 +463,9 @@ help:
 	@echo ... Disjoint_Set.obj
 	@echo ... Disjoint_Set.i
 	@echo ... Disjoint_Set.s
+	@echo ... Huffman_Coding.obj
+	@echo ... Huffman_Coding.i
+	@echo ... Huffman_Coding.s
 	@echo ... Kruskal_MST.obj
 	@echo ... Kruskal_MST.i
 	@echo ... Kruskal_MST.s
