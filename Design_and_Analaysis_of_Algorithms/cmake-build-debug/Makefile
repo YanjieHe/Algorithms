@@ -178,6 +178,33 @@ Disjoint_Set.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Disjoint_Set.cpp.s
 .PHONY : Disjoint_Set.cpp.s
 
+Fibonacci.obj: Fibonacci.cpp.obj
+
+.PHONY : Fibonacci.obj
+
+# target to build an object file
+Fibonacci.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Fibonacci.cpp.obj
+.PHONY : Fibonacci.cpp.obj
+
+Fibonacci.i: Fibonacci.cpp.i
+
+.PHONY : Fibonacci.i
+
+# target to preprocess a source file
+Fibonacci.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Fibonacci.cpp.i
+.PHONY : Fibonacci.cpp.i
+
+Fibonacci.s: Fibonacci.cpp.s
+
+.PHONY : Fibonacci.s
+
+# target to generate assembly for a file
+Fibonacci.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Fibonacci.cpp.s
+.PHONY : Fibonacci.cpp.s
+
 Huffman_Coding.obj: Huffman_Coding.cpp.obj
 
 .PHONY : Huffman_Coding.obj
@@ -463,6 +490,9 @@ help:
 	@echo ... Disjoint_Set.obj
 	@echo ... Disjoint_Set.i
 	@echo ... Disjoint_Set.s
+	@echo ... Fibonacci.obj
+	@echo ... Fibonacci.i
+	@echo ... Fibonacci.s
 	@echo ... Huffman_Coding.obj
 	@echo ... Huffman_Coding.i
 	@echo ... Huffman_Coding.s

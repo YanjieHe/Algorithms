@@ -15,4 +15,4 @@ add_executable(
         Union-Find.cpp
         Union-Find.hpp
         test/Test_Union_Find.cpp
-        test/Test_Union_Find.hpp Graph.hpp test/Test_Kruskal_MST.cpp test/Test_Kruskal_MST.hpp Prim_MST.cpp Prim_MST.hpp Dijkstra.cpp Dijkstra.hpp test/Test_Prim_MST.cpp test/Test_Prim_MST.hpp test/Test_Dijkstra.cpp test/Test_Dijkstra.hpp Huffman_Coding.cpp Huffman_Coding.hpp)
+        test/Test_Union_Find.hpp Graph.hpp test/Test_Kruskal_MST.cpp test/Test_Kruskal_MST.hpp Prim_MST.cpp Prim_MST.hpp Dijkstra.cpp Dijkstra.hpp test/Test_Prim_MST.cpp test/Test_Prim_MST.hpp test/Test_Dijkstra.cpp test/Test_Dijkstra.hpp Huffman_Coding.cpp Huffman_Coding.hpp Fibonacci.cpp Fibonacci.hpp)
