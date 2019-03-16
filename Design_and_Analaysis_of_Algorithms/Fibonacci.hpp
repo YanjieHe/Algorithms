@@ -6,10 +6,18 @@
 class FibonacciMemoization
 {
 public:
-    std::vector<int> lookup;
+    std::vector<long> lookup;
 
     FibonacciMemoization(int max);
 
+    long Compute(long n);
+};
+
+class FibonacciTabulation
+{
+public:
+    std::vector<long> table;
+    FibonacciTabulation(int max);
     long Compute(long n);
 };
 

@@ -6,12 +6,12 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.cpp
-Huffman_Coding.hpp
-C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
-iostream
--
-queue
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.cpp
+Fibonacci.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.hpp
+vector
 -
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
@@ -37,6 +37,8 @@ test/Test_Dijkstra.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
 Huffman_Coding.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
+Fibonacci.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.hpp
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
 
