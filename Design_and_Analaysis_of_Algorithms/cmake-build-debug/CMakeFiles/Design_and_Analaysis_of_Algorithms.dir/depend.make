@@ -30,9 +30,13 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Kruskal
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.obj: ..\Union-Find.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.obj: "..\Wildcard Pattern Matching.cpp"
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.obj: "..\Wildcard Pattern Matching.hpp"
+
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Bitmasking.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Fibonacci.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Huffman_Coding.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: "..\Wildcard Pattern Matching.hpp"
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Dijkstra.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Disjoint_Set.hpp

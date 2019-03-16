@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Huffman_Coding.cpp.obj"
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Fibonacci.cpp.obj"
   "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Bitmasking.cpp.obj"
+  "CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Wildcard_Pattern_Matching.cpp.obj"
   "Design_and_Analaysis_of_Algorithms.pdb"
   "Design_and_Analaysis_of_Algorithms.exe"
   "Design_and_Analaysis_of_Algorithms.exe.manifest"

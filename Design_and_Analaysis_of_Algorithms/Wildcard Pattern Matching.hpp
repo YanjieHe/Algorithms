@@ -1,0 +1,9 @@
+#ifndef DESIGN_AND_ANALAYSIS_OF_ALGORITHMS_WILDCARD_PATTERN_MATCHING_HPP
+#define DESIGN_AND_ANALAYSIS_OF_ALGORITHMS_WILDCARD_PATTERN_MATCHING_HPP
+
+#include <string>
+#include <vector>
+
+bool WildcardPatternMatching(std::string text, std::string pattern);
+
+#endif //DESIGN_AND_ANALAYSIS_OF_ALGORITHMS_WILDCARD_PATTERN_MATCHING_HPP

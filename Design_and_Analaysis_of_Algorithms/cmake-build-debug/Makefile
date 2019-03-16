@@ -340,6 +340,33 @@ Union-Find.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Union-Find.cpp.s
 .PHONY : Union-Find.cpp.s
 
+Wildcard_Pattern_Matching.obj: Wildcard_Pattern_Matching.cpp.obj
+
+.PHONY : Wildcard_Pattern_Matching.obj
+
+# target to build an object file
+Wildcard_Pattern_Matching.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.obj
+.PHONY : Wildcard_Pattern_Matching.cpp.obj
+
+Wildcard_Pattern_Matching.i: Wildcard_Pattern_Matching.cpp.i
+
+.PHONY : Wildcard_Pattern_Matching.i
+
+# target to preprocess a source file
+Wildcard_Pattern_Matching.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.i
+.PHONY : Wildcard_Pattern_Matching.cpp.i
+
+Wildcard_Pattern_Matching.s: Wildcard_Pattern_Matching.cpp.s
+
+.PHONY : Wildcard_Pattern_Matching.s
+
+# target to generate assembly for a file
+Wildcard_Pattern_Matching.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.s
+.PHONY : Wildcard_Pattern_Matching.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -535,6 +562,9 @@ help:
 	@echo ... Union-Find.obj
 	@echo ... Union-Find.i
 	@echo ... Union-Find.s
+	@echo ... Wildcard_Pattern_Matching.obj
+	@echo ... Wildcard_Pattern_Matching.i
+	@echo ... Wildcard_Pattern_Matching.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

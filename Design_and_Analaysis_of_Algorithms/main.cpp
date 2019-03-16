@@ -7,6 +7,7 @@
 #include "Huffman_Coding.hpp"
 #include "Fibonacci.hpp"
 #include "Bitmasking.hpp"
+#include "Wildcard Pattern Matching.hpp"
 
 using std::cout;
 using std::endl;
@@ -43,5 +44,7 @@ int main()
     }
     assignUniqueCaps.allMask = (1 << static_cast<int>(input.size())) - 1;
     cout << assignUniqueCaps.countWaysUntil(0, 1) << endl;
+
+    cout << std::boolalpha << WildcardPatternMatching("xyxzzxy", "x***x?") << endl;
     return 0;
 }
