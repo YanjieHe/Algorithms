@@ -124,6 +124,33 @@ Design_and_Analaysis_of_Algorithms\fast:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build
 .PHONY : Design_and_Analaysis_of_Algorithms\fast
 
+Bitmasking.obj: Bitmasking.cpp.obj
+
+.PHONY : Bitmasking.obj
+
+# target to build an object file
+Bitmasking.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.obj
+.PHONY : Bitmasking.cpp.obj
+
+Bitmasking.i: Bitmasking.cpp.i
+
+.PHONY : Bitmasking.i
+
+# target to preprocess a source file
+Bitmasking.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.i
+.PHONY : Bitmasking.cpp.i
+
+Bitmasking.s: Bitmasking.cpp.s
+
+.PHONY : Bitmasking.s
+
+# target to generate assembly for a file
+Bitmasking.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.s
+.PHONY : Bitmasking.cpp.s
+
 Dijkstra.obj: Dijkstra.cpp.obj
 
 .PHONY : Dijkstra.obj
@@ -484,6 +511,9 @@ help:
 	@echo ... edit_cache
 	@echo ... Design_and_Analaysis_of_Algorithms
 	@echo ... rebuild_cache
+	@echo ... Bitmasking.obj
+	@echo ... Bitmasking.i
+	@echo ... Bitmasking.s
 	@echo ... Dijkstra.obj
 	@echo ... Dijkstra.i
 	@echo ... Dijkstra.s

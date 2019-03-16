@@ -6,6 +6,7 @@
 #include "test/Test_Dijkstra.hpp"
 #include "Huffman_Coding.hpp"
 #include "Fibonacci.hpp"
+#include "Bitmasking.hpp"
 
 using std::cout;
 using std::endl;
@@ -26,5 +27,21 @@ int main()
     cout << "fib(9) = " << fibonacciMemoization.Compute(9) << endl;
     FibonacciTabulation fibonacciTabulation(100);
     cout << "fib(9) = " << fibonacciTabulation.Compute(9) << endl;
+    AssignUniqueCaps assignUniqueCaps;
+
+    std::vector<std::vector<int>> input = {
+            {5, 100, 1},
+            {2},
+            {5, 100}
+    };
+    for (int i = 0; i < input.size(); i++)
+    {
+        for (int item: input.at(i))
+        {
+            assignUniqueCaps.capList[item].push_back(i);
+        }
+    }
+    assignUniqueCaps.allMask = (1 << static_cast<int>(input.size())) - 1;
+    cout << assignUniqueCaps.countWaysUntil(0, 1) << endl;
     return 0;
 }
