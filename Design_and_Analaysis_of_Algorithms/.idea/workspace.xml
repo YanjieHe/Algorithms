@@ -11,23 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8fcfb8-4021-4b5e-91c7-4f13d2aaa07f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Wildcard Pattern Matching.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wildcard Pattern Matching.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Design_and_Analaysis_of_Algorithms.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Design_and_Analaysis_of_Algorithms.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="3a8fcfb8-4021-4b5e-91c7-4f13d2aaa07f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wildcard Pattern Matching.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="10" selection-end-column="35" />
+            <state relative-caret-position="456">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -184,12 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551474170856</updated>
       <workItem from="1551474175750" duration="48517000" />
-      <workItem from="1552763501829" duration="10361000" />
+      <workItem from="1552763501829" duration="12084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58878000" />
+    <option name="totallyTimeSpent" value="60601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -520,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wildcard Pattern Matching.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="10" selection-end-column="35" />
+        <state relative-caret-position="456">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
