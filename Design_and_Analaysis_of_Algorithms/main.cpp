@@ -8,6 +8,8 @@
 #include "Fibonacci.hpp"
 #include "Bitmasking.hpp"
 #include "Wildcard Pattern Matching.hpp"
+#include "Knapsack.hpp"
+#include "DigitDP.hpp"
 
 using std::cout;
 using std::endl;
@@ -46,5 +48,11 @@ int main()
     cout << assignUniqueCaps.countWaysUntil(0, 1) << endl;
 
     cout << std::boolalpha << WildcardPatternMatching("xyxzzxy", "x***x?") << endl;
+
+    cout << RecursiveKnapsack(50, {10, 20, 30}, {60, 100, 120}, 3) << endl;
+    cout << BottomUpKnapsack(50, {10, 20, 30}, {60, 100, 120}, 3) << endl;
+
+    DigitDP digitDP;
+    cout << digitDP.RangeDigitSum(123, 1024) << endl;
     return 0;
 }

@@ -4,6 +4,9 @@
 CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Bitmasking.cpp.obj
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Bitmasking.cpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Bitmasking.hpp
+CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/DigitDP.cpp.obj
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.cpp
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.hpp
 CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Dijkstra.cpp.obj
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.cpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Dijkstra.hpp
@@ -16,6 +19,9 @@ CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Fibonacci.cpp.obj
 CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Huffman_Coding.cpp.obj
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.cpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
+CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Knapsack.cpp.obj
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Knapsack.cpp
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Knapsack.hpp
 CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Kruskal_MST.cpp.obj
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Graph.hpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Kruskal_MST.cpp
@@ -35,8 +41,10 @@ CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/Wildcard_Pattern_Matching.cpp.
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Wildcard Pattern Matching.hpp
 CMakeFiles/Design_and_Analaysis_of_Algorithms.dir/main.cpp.obj
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Bitmasking.hpp
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.hpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.hpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Huffman_Coding.hpp
+ C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Knapsack.hpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Wildcard Pattern Matching.hpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/main.cpp
  C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp

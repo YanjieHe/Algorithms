@@ -4,6 +4,9 @@
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.obj: ..\Bitmasking.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.obj: ..\Bitmasking.hpp
 
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\DigitDP.cpp.obj: ..\DigitDP.cpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\DigitDP.cpp.obj: ..\DigitDP.hpp
+
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Dijkstra.cpp.obj: ..\Dijkstra.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Dijkstra.cpp.obj: ..\Dijkstra.hpp
 
@@ -15,6 +18,9 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Fibonacci.cpp.obj: ..\Fibonacc
 
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.obj: ..\Huffman_Coding.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.obj: ..\Huffman_Coding.hpp
+
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Knapsack.cpp.obj: ..\Knapsack.cpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Knapsack.cpp.obj: ..\Knapsack.hpp
 
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Graph.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Kruskal_MST.cpp.obj: ..\Kruskal_MST.cpp
@@ -34,8 +40,10 @@ CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Wildcard_Pattern_Matching.cpp.obj: "..\Wildcard Pattern Matching.hpp"
 
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Bitmasking.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\DigitDP.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Fibonacci.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Huffman_Coding.hpp
+CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\Knapsack.hpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: "..\Wildcard Pattern Matching.hpp"
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\main.cpp.obj: ..\test\Test_Dijkstra.hpp

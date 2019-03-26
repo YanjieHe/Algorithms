@@ -151,6 +151,33 @@ Bitmasking.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Bitmasking.cpp.s
 .PHONY : Bitmasking.cpp.s
 
+DigitDP.obj: DigitDP.cpp.obj
+
+.PHONY : DigitDP.obj
+
+# target to build an object file
+DigitDP.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\DigitDP.cpp.obj
+.PHONY : DigitDP.cpp.obj
+
+DigitDP.i: DigitDP.cpp.i
+
+.PHONY : DigitDP.i
+
+# target to preprocess a source file
+DigitDP.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\DigitDP.cpp.i
+.PHONY : DigitDP.cpp.i
+
+DigitDP.s: DigitDP.cpp.s
+
+.PHONY : DigitDP.s
+
+# target to generate assembly for a file
+DigitDP.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\DigitDP.cpp.s
+.PHONY : DigitDP.cpp.s
+
 Dijkstra.obj: Dijkstra.cpp.obj
 
 .PHONY : Dijkstra.obj
@@ -258,6 +285,33 @@ Huffman_Coding.s: Huffman_Coding.cpp.s
 Huffman_Coding.cpp.s:
 	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Huffman_Coding.cpp.s
 .PHONY : Huffman_Coding.cpp.s
+
+Knapsack.obj: Knapsack.cpp.obj
+
+.PHONY : Knapsack.obj
+
+# target to build an object file
+Knapsack.cpp.obj:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Knapsack.cpp.obj
+.PHONY : Knapsack.cpp.obj
+
+Knapsack.i: Knapsack.cpp.i
+
+.PHONY : Knapsack.i
+
+# target to preprocess a source file
+Knapsack.cpp.i:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Knapsack.cpp.i
+.PHONY : Knapsack.cpp.i
+
+Knapsack.s: Knapsack.cpp.s
+
+.PHONY : Knapsack.s
+
+# target to generate assembly for a file
+Knapsack.cpp.s:
+	$(MAKE) -f CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Design_and_Analaysis_of_Algorithms.dir\Knapsack.cpp.s
+.PHONY : Knapsack.cpp.s
 
 Kruskal_MST.obj: Kruskal_MST.cpp.obj
 
@@ -541,6 +595,9 @@ help:
 	@echo ... Bitmasking.obj
 	@echo ... Bitmasking.i
 	@echo ... Bitmasking.s
+	@echo ... DigitDP.obj
+	@echo ... DigitDP.i
+	@echo ... DigitDP.s
 	@echo ... Dijkstra.obj
 	@echo ... Dijkstra.i
 	@echo ... Dijkstra.s
@@ -553,6 +610,9 @@ help:
 	@echo ... Huffman_Coding.obj
 	@echo ... Huffman_Coding.i
 	@echo ... Huffman_Coding.s
+	@echo ... Knapsack.obj
+	@echo ... Knapsack.i
+	@echo ... Knapsack.s
 	@echo ... Kruskal_MST.obj
 	@echo ... Kruskal_MST.i
 	@echo ... Kruskal_MST.s

@@ -12,6 +12,14 @@ vector
 array
 -
 
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.cpp
+DigitDP.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.hpp
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.hpp
+vector
+-
+
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Fibonacci.hpp
 vector
 -
@@ -22,6 +30,12 @@ memory
 string
 -
 vector
+-
+
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Knapsack.hpp
+vector
+-
+algorithm
 -
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Wildcard Pattern Matching.hpp
@@ -51,6 +65,10 @@ Bitmasking.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Bitmasking.hpp
 Wildcard Pattern Matching.hpp
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Wildcard Pattern Matching.hpp
+Knapsack.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/Knapsack.hpp
+DigitDP.hpp
+C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/DigitDP.hpp
 
 C:/Users/HeYan/Documents/GitHub/Algorithms/Design_and_Analaysis_of_Algorithms/test/Test_Dijkstra.hpp
 
